@@ -1,0 +1,25 @@
+c:\users\gamze\documents\visual studio 2015\Projects\Proje1\Proje1\bin\Debug\Proje1.exe.config
+C:\Users\Gamze\Desktop\Proje1\Proje1\bin\Debug\Proje1.exe.config
+C:\Users\Gamze\Desktop\Proje1\Proje1\obj\Debug\Proje1.csprojResolveAssemblyReference.cache
+C:\Users\Gamze\Desktop\Proje1\Proje1\obj\Debug\Proje1.Form1.resources
+C:\Users\Gamze\Desktop\Proje1\Proje1\obj\Debug\Proje1.Properties.Resources.resources
+C:\Users\Gamze\Desktop\Proje1\Proje1\obj\Debug\Proje1.csproj.GenerateResource.Cache
+C:\Users\Gamze\Desktop\Proje1\Proje1\bin\Debug\Proje1.exe
+C:\Users\Gamze\Desktop\Proje1\Proje1\bin\Debug\Proje1.pdb
+C:\Users\Gamze\Desktop\Proje1\Proje1\obj\Debug\Proje1.exe
+C:\Users\Gamze\Desktop\Proje1\Proje1\obj\Debug\Proje1.pdb
+C:\Users\Cansu Ecevit\Desktop\Proje1\Proje1\bin\Debug\Proje1.exe.config
+C:\Users\Cansu Ecevit\Desktop\Proje1\Proje1\obj\Debug\Proje1.exe
+C:\Users\Cansu Ecevit\Desktop\Proje1\Proje1\obj\Debug\Proje1.pdb
+C:\Users\Cansu Ecevit\Desktop\Proje1\Proje1\bin\Debug\Proje1.exe
+C:\Users\Cansu Ecevit\Desktop\Proje1\Proje1\bin\Debug\Proje1.pdb
+C:\Users\Cansu Ecevit\Desktop\Proje1\Proje1\obj\Debug\Proje1.csprojResolveAssemblyReference.cache
+C:\Users\Cansu Ecevit\Desktop\Proje1\Proje1\obj\Debug\Proje1.Form1.resources
+C:\Users\Cansu Ecevit\Desktop\Proje1\Proje1\obj\Debug\Proje1.Properties.Resources.resources
+C:\Users\Cansu Ecevit\Desktop\Proje1\Proje1\obj\Debug\Proje1.csproj.GenerateResource.Cache
+C:\Users\Cansu Ecevit\Desktop\2. Sınıf\2.Dönem\Yazılım Yapımı\Proje1\Proje1\bin\Debug\Proje1.exe.config
+C:\Users\Cansu Ecevit\Desktop\2. Sınıf\2.Dönem\Yazılım Yapımı\Proje1\Proje1\obj\Debug\Proje1.exe
+C:\Users\Cansu Ecevit\Desktop\2. Sınıf\2.Dönem\Yazılım Yapımı\Proje1\Proje1\obj\Debug\Proje1.pdb
+C:\Users\Cansu Ecevit\Desktop\2.SINIF\2.Dönem\Veri Yapıları\Proje1\Proje1\bin\Debug\Proje1.exe.config
+C:\Users\Cansu Ecevit\Desktop\2.SINIF\2.Dönem\Veri Yapıları\Proje1\Proje1\obj\Debug\Proje1.exe
+C:\Users\Cansu Ecevit\Desktop\2.SINIF\2.Dönem\Veri Yapıları\Proje1\Proje1\obj\Debug\Proje1.pdb
